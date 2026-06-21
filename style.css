@@ -409,7 +409,8 @@ a:hover {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    gap: 100px;
+    gap: 30px;
+    flex-wrap: wrap;
     min-width: 400px;
     max-width: 100%;
 }
